@@ -14,6 +14,19 @@ My goal is applications combining visual aesthetics, clean code and impeccable o
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
+## Experience
+
+### Yandex Practicum | June 2021 - July 2023
+
+* [Algoschool](https://github.com/elana-tollu/algososh) - visualise algorithms, unit and Е2Е testing.
+TypeScript, JavaScript, CSS, HTML  
+
+* [Stellar Burgers](https://github.com/elana-tollu/react-burger) - frontend for customising and ordering burgers.
+React, JavaScript, TypeScript, CSS, HTML 
+
+* [Sightseeings](https://github.com/elana-tollu/mesto-project) - social space for sharing photos and descriptions.
+JavaScript, CSS, HTML, adaptive layout
+ 
 <!--
 **elana-tollu/elana-tollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
