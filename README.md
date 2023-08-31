@@ -18,7 +18,7 @@ My goal is applications combining visual aesthetics, clean code and impeccable o
 
 ### Yandex Practicum | June 2021 - July 2023
 
-* [Algoschool](https://github.com/elana-tollu/algososh) - visualise algorithms, unit and Е2Е testing.
+* [Algoschool](https://github.com/elana-tollu/algososh) - visualise algorithms, practice unit and Е2Е testing.
 TypeScript, JavaScript, CSS, HTML  
 
 * [Stellar Burgers](https://github.com/elana-tollu/react-burger) - frontend for customising and ordering burgers.
