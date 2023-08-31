@@ -26,6 +26,10 @@ React, JavaScript, TypeScript, CSS, HTML
 
 * [Sightseeings](https://github.com/elana-tollu/mesto-project) - social space for sharing photos and descriptions.
 JavaScript, CSS, HTML, adaptive layout
+
+## Currently working on...
+
+Using the technologies I have learnt, I develop a language learning application.
  
 <!--
 **elana-tollu/elana-tollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
